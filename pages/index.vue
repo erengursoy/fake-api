@@ -186,7 +186,7 @@ export default {
   data() {
     return {
       endpoint: "https://deadtown.mvhq.art/internal-meta/",
-      items: [],
+     
     };
   },
 };
